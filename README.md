@@ -1,4 +1,4 @@
-# writeups
+# specialone
 [![Actions Status](https://github.com/dlang-jp/writeups/workflows/master/badge.svg)](https://github.com/dlang-jp/writeups/actions)
 
 ドキュメント : [https://dlang-jp.github.io/writeups](https://dlang-jp.github.io/writeups)
