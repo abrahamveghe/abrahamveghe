@@ -1,7 +1,7 @@
-# D言語クックブック
-[![Actions Status](https://github.com/dlang-jp/Cookbook/workflows/master/badge.svg)](https://github.com/dlang-jp/Cookbook/actions)
+# writeups
+[![Actions Status](https://github.com/dlang-jp/writeups/workflows/master/badge.svg)](https://github.com/dlang-jp/writeups/actions)
 
-ドキュメント : [https://dlang-jp.github.io/Cookbook](https://dlang-jp.github.io/Cookbook)
+ドキュメント : [https://dlang-jp.github.io/writeups](https://dlang-jp.github.io/writeups)
 
 処理内容から書き方を逆引きするための資料です。
 
@@ -44,7 +44,7 @@ dub test :vibe-d_usage
     - これは書けそうだ、と思った方はIssueのAssigneesに自分を割り当ててください。直接Pull Requestしてもらっても構いません。
 - masterへのCommitは行わず、変更はすべてPull Requestで行うようにしています。
 - レビューポイントなどはWikiにて管理していきます。どしどし追記していってください。
-    - [サンプルに期待される内容](https://github.com/dlang-jp/Cookbook/wiki/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AB%E6%9C%9F%E5%BE%85%E3%81%95%E3%82%8C%E3%82%8B%E5%86%85%E5%AE%B9)
+    - [サンプルに期待される内容](https://github.com/dlang-jp/writeups/wiki/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AB%E6%9C%9F%E5%BE%85%E3%81%95%E3%82%8C%E3%82%8B%E5%86%85%E5%AE%B9)
 
 # その他
 ## ローカルで出力結果を確認する方法
